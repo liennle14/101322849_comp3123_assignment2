@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  background-color: pink;
+}
+h1{
+  text-align: center;
+}
+
+h2{
+  padding: 5px;
+}
+
+.main{
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+header{
+  background-color: hotpink;
+  color: white;
+  height: 100px;
+  padding-top: 10px;
+  text-align: center;
+ 
+}
+
+button{
+  padding: 5px;
+  margin: 5px;
+  margin-bottom: 15px;
+  background-color: hotpink;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+form > div{
+  margin: 10px;
+}
+
+.add{
+  margin: 5px;
+}
+
+.addEmp, .view{
+  border: 2px solid black;
+}
+
+.view{
+  border: 2px solid black;
+  padding: 5px;
+}
